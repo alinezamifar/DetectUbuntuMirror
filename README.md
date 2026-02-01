@@ -1,2 +1,3 @@
 # DetectUbuntuMirror
-Find best Ubuntu Mirror
+
+bash <(curl -Ls https://github.com/alinezamifar/DetectUbuntuMirror/raw/refs/heads/main/DUM.sh)
